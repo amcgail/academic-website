@@ -11,13 +11,15 @@ weight = 5
 [interests]
   interests = [
     "Computational Social Science",
+    "Networked Game Theory",
     "Agent Based Modeling",
-    "Language and Culture"
+    "Evolution of Language and Culture",
+    "Statistical Mechanics as Applied to Social Systems"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Bachelor in Mathematics and Physics"
+  course = "B.S. in Mathematics and Physics"
   institution = "Purdue University"
   year = 2014
 
