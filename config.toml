@@ -100,7 +100,7 @@ enableGitInfo = false
   map_api_key = "AIzaSyA6pNGTLkWN3dNlLgg2Ug78u4K7E_gW5HI"
   latitude = "42.447255"
   longitude = "-76.482250"
-  zoom = 15
+  zoom = 17
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
