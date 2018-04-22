@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Baby In Academia"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Cornell University", url = "http://sociology.cornell.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "am2873@cornell.edu"
   address = "Uris Hall, Room 333, Ithaca NY 14853"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -97,7 +97,7 @@ enableGitInfo = false
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   map = 1
-  map_api_key = ""
+  map_api_key = "AIzaSyA6pNGTLkWN3dNlLgg2Ug78u4K7E_gW5HI"
   latitude = "42.447255"
   longitude = "-76.482250"
   zoom = 15
