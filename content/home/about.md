@@ -19,14 +19,14 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "PhD Student in Sociology"
+  institution = "Cornell University"
+  year = 2022
+
+[[education.courses]]
   course = "B.S. in Mathematics and Physics"
   institution = "Purdue University"
   year = 2014
-
-#[[education.courses]]
-#  course = "MEng in Artificial Intelligence"
-#  institution = "Massachusetts Institute of Technology"
-#  year = 2009
 
 #[[education.courses]]
 #  course = "BSc in Artificial Intelligence"
