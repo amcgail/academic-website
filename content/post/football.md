@@ -1,11 +1,12 @@
 ---
-title: "Comeon..."
+title: ""
 date: 2018-04-24T13:25:25-04:00
 draft: false
-tags: ["a","b"]
+tags: ["football","sequence analysis","clustering"]
 ---
 
-# Using methods sequence analysis to analyze strategic patterns in football games.
+# Using sequence analysis to analyze football
 
-this seems like an alright idea.
-does this work?
+![There should be an image here...](img/football/modal.png)
+
+Or how not to think about football. See [here](pdf/seqAnalysis.football.pdf) for the full report.
