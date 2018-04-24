@@ -1,10 +1,8 @@
-+++
-title = "Analyzing the progression of football plays"
-date = 2017-01-01T00:00:00
-math = false
-highlight = false
-tags = ["seqence analysis"]
-+++
+---
+title: "Comeon..."
+date: 2018-04-24T13:25:25-04:00
+draft: false
+---
 
 # Using methods sequence analysis to analyze strategic patterns in football games.
 
