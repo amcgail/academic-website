@@ -1,5 +1,5 @@
 +++
-title = "What do I do here..."
+title = "Associativity of the free product of groups"
 date = 2018-04-24T13:45:22-04:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "An Elementary Treatment of the Construction of the Free Product o
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We consider the elementary part of the theory of free products of groups. We reviewthe history and then give an elementary proof that the multiplication in the free product is as-sociative. This proof originated in a suggestion by the second author and has not been noticed,to our knowledge, by the experts."
+abstract = "We consider the elementary part of the theory of free products of groups. We reviewthe history and then give an elementary proof that the multiplication in the free product is associative. This proof originated in a suggestion by the second author and has not been noticed,to our knowledge, by the experts."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
