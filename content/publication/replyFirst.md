@@ -1,10 +1,10 @@
 +++
-title = "Associativity of the free product of groups"
-date = 2015-04-24T13:45:22-04:00
+title = "Who to reply to first?"
+date = 2017-08-24T13:57:56-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["James McClure", "Alec McGail"]
+authors = ["Alec McGail"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,32 @@ authors = ["James McClure", "Alec McGail"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "An Elementary Treatment of the Construction of the Free Product of Groups"
+publication = "iWho To Reply To First? (But First: Who Would You Curse To?)"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We consider the elementary part of the theory of free products of groups. We reviewthe history and then give an elementary proof that the multiplication in the free product is associative. This proof originated in a suggestion by the second author and has not been noticed,to our knowledge, by the experts."
+abstract = "The first goal of this project was to assess whether
+and how the presence of cursing is related to the relationship of
+the interlocutors. To investigate this I have analyzed two datasets
+of organizational emails. Each dataset contains emails from a
+subset of employees at either Enron (500k emails) or Avocado
+(1.2M emails). It turns out that in context of emailing from
+a work email address, the presence of cursing can be used to
+identify strong and informal relationships. Using topic modeling,
+for example, we can see that the topic of discussion among those
+who share a curse is far different from the norm.
+The second goal of this paper is to leverage email timestamps
+and uncover judgements made by users as to which emails to
+answer first. I justify that these measures hold significance and
+that they indicate preference relationships, at least in aggregate.
+These theoretic justifications are further qualified through a
+semantic analysis of the emails, using LDA to generate a topic
+classifier for sentences. Some topics correlate with the measures
+I have presented and seem to discourage or encourage replies in
+aggregate."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -42,7 +60,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/pdf/replyFirst.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
