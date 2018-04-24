@@ -22,25 +22,7 @@ publication = "iWho To Reply To First? (But First: Who Would You Curse To?)"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The first goal of this project was to assess whether
-and how the presence of cursing is related to the relationship of
-the interlocutors. To investigate this I have analyzed two datasets
-of organizational emails. Each dataset contains emails from a
-subset of employees at either Enron (500k emails) or Avocado
-(1.2M emails). It turns out that in context of emailing from
-a work email address, the presence of cursing can be used to
-identify strong and informal relationships. Using topic modeling,
-for example, we can see that the topic of discussion among those
-who share a curse is far different from the norm.
-The second goal of this paper is to leverage email timestamps
-and uncover judgements made by users as to which emails to
-answer first. I justify that these measures hold significance and
-that they indicate preference relationships, at least in aggregate.
-These theoretic justifications are further qualified through a
-semantic analysis of the emails, using LDA to generate a topic
-classifier for sentences. Some topics correlate with the measures
-I have presented and seem to discourage or encourage replies in
-aggregate."
+abstract = "The first goal of this project was to assess whether and how the presence of cursing is related to the relationship of the interlocutors. To investigate this I have analyzed two datasets of organizational emails. Each dataset contains emails from a subset of employees at either Enron (500k emails) or Avocado (1.2M emails). It turns out that in context of emailing from a work email address, the presence of cursing can be used to identify strong and informal relationships. Using topic modeling, for example, we can see that the topic of discussion among those who share a curse is far different from the norm.  The second goal of this paper is to leverage email timestamps and uncover judgements made by users as to which emails to answer first. I justify that these measures hold significance and that they indicate preference relationships, at least in aggregate.  These theoretic justifications are further qualified through a semantic analysis of the emails, using LDA to generate a topic classifier for sentences. Some topics correlate with the measures I have presented and seem to discourage or encourage replies in aggregate."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
