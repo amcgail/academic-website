@@ -7,6 +7,8 @@ tags: ["football","sequence analysis","clustering"]
 
 # Using sequence analysis to analyze football
 
-![There should be an image here...](img/football/modal.png)
+![There should be an image here...](/img/football/modal.png)
 
-Or how not to think about football. See [here](pdf/seqAnalysis.football.pdf) for the full report.
+Or how not to think about football. 
+I won't write much about this, except that it's both interesting and too simplistic.
+See [here](/pdf/seqAnalysis.football.pdf) for the full report.
