@@ -18,7 +18,7 @@ authors = ["Alec McGail"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "iWho To Reply To First? (But First: Who Would You Curse To?)"
+publication = "Who To Reply To First? (But First: Who Would You Curse To?)"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["natural language processing", "organizational emails"]
 
 # Links (optional).
 url_pdf = "/pdf/replyFirst.pdf"
