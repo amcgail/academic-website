@@ -13,8 +13,7 @@ weight = 5
     "Computational Social Science",
     "Networked Game Theory",
     "Agent Based Modeling",
-    "Evolution of Language and Culture",
-    "Statistical Mechanics as Applied to Social Systems"
+    "Evolution of Language and Culture"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -37,4 +36,11 @@ weight = 5
 
 # Biography
 
-Alec McGail is an awesome guy, trying to do some stuff.
++ 24 year old child
++ gets bored easily and 
+
+interests:
+
++ language
++ something else.
++ does markdown as such work?
