@@ -6,7 +6,8 @@
 baseurl = "/"
 
 # Title of your site
-title = "academics -- AM"
+# title = "academics -- AM"
+title = ""
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
