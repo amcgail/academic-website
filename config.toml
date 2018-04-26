@@ -257,14 +257,14 @@ enableGitInfo = true
   url = "#about"
   weight = 1
 
-#[[menu.main]]
-#  name = "Publications"
-#  url = "#publications_selected"
-#  weight = 2
+[[menu.main]]
+  name = "Papers"
+  url = "/publication/"
+  weight = 2
 
 [[menu.main]]
   name = "Posts"
-  url = "/posts"
+  url = "/post/"
   weight = 3
 
 #[[menu.main]]
