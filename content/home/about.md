@@ -36,11 +36,12 @@ weight = 5
 
 # Biography
 
-+ 24 year old child
-+ gets bored easily and 
+*I'm a mathematical sociologist.*
+  I studied probability theory and physics in undergrad, and since have been studying social datasets.
 
-interests:
-
-+ language
-+ something else.
-+ does markdown as such work?
+My current interests are:
+    
++ theory building
+  - Using agent-based modeling as a tool for theorizing about human behavior
+  - Language and communication
+  - Structures of meaning
