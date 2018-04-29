@@ -283,6 +283,11 @@ enableGitInfo = true
 #  url = "#contact"
 #  weight = 6
 
+[[menu.main]]
+  name = "CV"
+  url = "/pdf/cv.pdf"
+  weight = 8
+
 # Taxonomies.
 [taxonomies]
   tag = "tags"
