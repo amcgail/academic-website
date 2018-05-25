@@ -10,10 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Computational Social Science",
-    "Networked Game Theory",
-    "Agent Based Modeling",
-    "Evolution of Language and Culture"
+    "Evolution of language and culture",
+    "Agent-based modeling as a tool for theorizing about human behavior",
+    "Networked game theory"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -38,10 +37,7 @@ weight = 5
 
 *I'm a mathematical sociologist.*
   I studied probability theory and physics in undergrad, and since have been studying social datasets.
+I'm now interested in building social theory.
 
-My current interests are:
-    
-+ theory building
-  - Using agent-based modeling as a tool for theorizing about human behavior
-  - Language and communication
-  - Structures of meaning
+[//]: # (- Language and communication)
+[//]: # ( - Structures of meaning)
