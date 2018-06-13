@@ -1,11 +1,9 @@
 ---
-title: ""
+title: "Using sequence analysis to analyze football"
 date: 2018-04-24T13:25:25-04:00
 draft: false
 tags: ["football","sequence analysis","clustering"]
 ---
-
-# Using sequence analysis to analyze football
 
 ![football plays](/img/football/modal.png)
 
