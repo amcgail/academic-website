@@ -26,6 +26,7 @@ I hope some others can find them helpful.
 + [Pajek datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/)
 + [Konect](http://konect.uni-koblenz.de/networks/)
 + [Mark Newmann's collection](http://www-personal.umich.edu/~mejn/netdata/)
++ [Presumably Moreno's](http://moreno.ss.uci.edu/data.html)
 + [Alex Arenas](http://deim.urv.cat/~alexandre.arenas/data/welcome.htm) has collected a few
 + [Package 'igraphdata'](https://cran.r-project.org/web/packages/igraphdata/igraphdata.pdf) Only 12 datasets, but imports right into R. enron, foodwebs, immuno, karate, kite, Koenigsberg, macaque, rfid, UKfaculty, USairports, yeast.
 + [Katherine Ognyanova's list](http://kateto.net/2016/05/network-datasets/)
