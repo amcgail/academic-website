@@ -22,12 +22,7 @@ publication = "The Structure of Lay Belifs: A Literature Review"
 publication_short = "The Structure of Lay Belifs"
 
 # Abstract and optional shortened version.
-abstract = "I am here concerned with how people's beliefs are structured.
-That is, what are the mechanisms which govern their adoption and dissolution?
-How should we represent beliefs, and what exactly is a belief?
-How do the functions and disfunctions of beliefs interact with 
-And how should we view discourse as an indicator of held beliefs and mechanism for their modification?
-I attempt to address these issues in light of prior research in many areas of the social sciences, and conclude with a call to action urging more systematic collection of data regarding people's belief systems."
+abstract = "I am here concerned with how people's beliefs are structured. That is, what are the mechanisms which govern their adoption and dissolution? How should we represent beliefs, and what exactly is a belief? How do the functions and disfunctions of beliefs interact with their form and application? How should we view discourse as an indicator of held beliefs and mechanism for their modification? I attempt to address these issues in light of prior research in many areas of the social sciences, and conclude with a call to action urging more systematic collection of data regarding people's belief systems."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
