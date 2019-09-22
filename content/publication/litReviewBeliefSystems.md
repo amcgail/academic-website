@@ -1,6 +1,6 @@
 +++
-title = "Making social representations machine-readable"
-date = 2018-05-20T13:57:56-04:00
+title = "The Structure of Lay Belifs"
+date = 2018-04-20T13:57:56-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,11 +18,11 @@ authors = ["Alec McGail"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Making social representations machine-readable: An algorithm design"
-publication_short = ""
+publication = "The Structure of Lay Belifs: A Literature Review"
+publication_short = "The Structure of Lay Belifs"
 
 # Abstract and optional shortened version.
-abstract = "This is a motivational essay for myself. My aim is to convince myself of the 'whys' and 'hows' of an ambitious set of projects for Summer 2018. The ambition I will motivate in this paper is to design a computer program which interacts with individuals one-on-one over online chat. This program will be linguistically fluent enough to understand what individuals tell it. It will understand what claims its interlocutor uses to support which others, and how one person’s claims may or may not relate to other people’s claims. Its understanding will be culturally formed, dynamic, and learning, with the hope of building a single mind to understand qualitatively many individuals, bridging the gap between qualitative and quantitative sociology."
+abstract = "I am here concerned with how people's beliefs are structured. That is, what are the mechanisms which govern their adoption and dissolution? How should we represent beliefs, and what exactly is a belief? How do the functions and disfunctions of beliefs interact with their form and application? How should we view discourse as an indicator of held beliefs and mechanism for their modification? I attempt to address these issues in light of prior research in many areas of the social sciences, and conclude with a call to action urging more systematic collection of data regarding people's belief systems."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -39,10 +39,10 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["natural language processing", "organizational emails"]
+tags = ["belief systems", "literature review"]
 
 # Links (optional).
-url_pdf = "/pdf/readableSocialRepresentations.pdf"
+url_pdf = "/pdf/litReview.secondDraft.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
