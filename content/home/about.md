@@ -10,6 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "NLP for the sociological study of science",
     "Evolution of language and culture",
     "Agent-based modeling as a tool for theorizing about human behavior",
     "Networked game theory"
@@ -35,9 +36,10 @@ weight = 5
 
 # Biography
 
-*I'm a mathematical sociologist.*
-  I studied probability theory and physics in undergrad, and since have been studying social datasets.
-I'm now interested in building social theory.
+*I'm a computational sociologist*.
+  I studied probability theory and physics in undergrad,
+  am addicted to programming,
+  and am now learning what I can about social theory.
 
 [//]: # (- Language and communication)
 [//]: # ( - Structures of meaning)
