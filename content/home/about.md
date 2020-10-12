@@ -13,7 +13,7 @@ weight = 5
     "NLP for the sociological study of science",
     "Evolution of language and culture",
     "Agent-based modeling as a tool for theorizing about human behavior",
-    "Networked game theory"
+    "Citation networks and mapping the history of knowledge"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -40,6 +40,8 @@ weight = 5
   I studied probability theory and physics in undergrad,
   am addicted to programming,
   and am now learning what I can about social theory.
+
+For more, see my [personal website](http://www.alecmcgail.com/)
 
 [//]: # (- Language and communication)
 [//]: # ( - Structures of meaning)
